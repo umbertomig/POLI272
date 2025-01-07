@@ -64,11 +64,11 @@ For further reading, please contact the instructor.
 ### Assignments
 | Assignment       | Weight          | Due Date |
 |------------------|-----------------|----------|
-| Problem Sets x 10 (9% each) | 90% |   |
+| Problem Sets x 9 (10% each) | 90% |   |
 | Participation x 8 (1.25% each) | 10% |   |
 
-- There will be 11 weekly problem sets. The highest 10 grades will be averaged.
-- Participation will be measured by 10 Canvas quizzes. Participation in at least 8 lectures is required for full marks.
+- There will be nine weekly problem sets.
+- Ten Canvas quizzes will measure participation. Participation in at least eight lectures is required for full marks.
 
 **Grading Scheme:**
 | Grade         | Meaning |
@@ -88,7 +88,7 @@ See the schedule [here](b_Schedule.md).
 ---
 
 ## Academic Integrity
-Academic integrity is expected of everyone at UC San Diego. Dishonesty undermines learning and certification of abilities. Any violations will be reported to the Academic Integrity Office and may result in sanctions, including failure in the class or suspension. Collaborations are encouraged, but work must be your own.
+Academic integrity is expected of everyone at UC San Diego. Dishonesty undermines learning and certification of abilities. Any violations will be reported to the Academic Integrity Office and may result in sanctions, including failure in the class or suspension. I encourage collaborations, but work must be your own.
 
 For more details, visit the [UCSD Academic Integrity Office](https://academicintegrity.ucsd.edu).
 
